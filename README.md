@@ -23,7 +23,7 @@ Note  GNU version of BC has interactive mode - can read input from user. This fu
 
 Click to view.
 
-[![bcfront](https://raw.githubusercontent.com/arvjus/bcfront/master/screenshots/bcfront-icon-thumb.png)](https://raw.githubusercontent.com/arvjus/bcfront/master/screenshots/bcfront-icon.png)
+[![bcfront](https://raw.githubusercontent.com/arvjus/bcfront/master/screenshots/bcfront-thumb.png)](https://raw.githubusercontent.com/arvjus/bcfront/master/screenshots/bcfront.png)
 
 
 
