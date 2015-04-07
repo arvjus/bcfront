@@ -1,8 +1,8 @@
 ## BCFront
 
-![icon](https://raw.githubusercontent.com/arvjus/activlog/master/androidmarket/small-icon.png)
+![icon](https://raw.githubusercontent.com/arvjus/bcfront/master/screenshots/bcfront-icon.png)
 
-Front end application to Unix BC math calculator
+Front end application to BC math calculator
 
 
 ### License
@@ -13,11 +13,17 @@ Copyright © 2012 Arvid Juskaitis <arvydas.juskaitis@gmail.com>
 
 
 
+### Introductions
+
+BCFront application is a front end to well-known unix bc math calculator. 
+Note  GNU version of BC has interactive mode - can read input from user. This functionality is not supported (yet) by BCFront.
+
+
 ### Some of screenshots
 
 Click to view.
 
-[![Logging](https://raw.githubusercontent.com/arvjus/activlog/master/androidmarket/1-thumb.png)](https://raw.githubusercontent.com/arvjus/activlog/master/androidmarket/1.png)
+[![bcfront](https://raw.githubusercontent.com/arvjus/bcfront/master/screenshots/bcfront-icon-thumb.png)](https://raw.githubusercontent.com/arvjus/bcfront/master/screenshots/bcfront-icon.png)
 
 
 
